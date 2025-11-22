@@ -46,4 +46,5 @@ PC with LT Spice Software
 ### OUTPUT WAVEFORM
 <img width="953" height="836" alt="image" src="https://github.com/user-attachments/assets/b3c7c969-3c2a-4237-b7af-8311f08887df" />
 ## Result:
-![WhatsApp Image 2025-11-22 at 05 40 22_2e565840](https://github.com/user-attachments/assets/7b8cd85d-7be0-4da4-9cd6-fd8ec59eace4)
+
+![WhatsApp Image 2025-11-22 at 05 40 22_7e84443f](https://github.com/user-attachments/assets/c14169f5-2391-4150-b725-a9e2c81ce3f1)
